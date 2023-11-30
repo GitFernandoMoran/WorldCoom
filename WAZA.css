@@ -1,0 +1,7 @@
+/* Este archivo es un archivo de pruebas CSS no tiene nada que ver con el proyecto */
+
+.seadadad:hover{
+    border-bottom: 1px solid rgb(201, 0, 0);
+    color:grey;
+    border-bottom-color: grey;
+}
